@@ -1,0 +1,2031 @@
+[
+  {
+    "category": {
+      "fr": "Entrées de bar",
+      "en": "Bar Starters",
+      "zh": "酒吧前菜",
+      "hi": "बार स्टार्टर"
+    },
+    "items": [
+      {
+        "number": "01",
+        "name": {
+          "fr": "Masala Papad Vegan",
+          "en": "Masala Papad Vegan",
+          "zh": "Masala Papad Vegan",
+          "hi": "Masala Papad Vegan"
+        },
+        "description": {
+          "fr": "Pâte pois chiches et légumes",
+          "en": "Masala papad with vegetables",
+          "zh": "玛萨拉薄饼配蔬菜",
+          "hi": "सब्जियों के साथ मसाला पापड़"
+        },
+        "price": 2500
+      },
+      {
+        "number": "02",
+        "name": {
+          "fr": "Masala Peanut Vegan",
+          "en": "Masala Peanut Vegan",
+          "zh": "Masala Peanut Vegan",
+          "hi": "Masala Peanut Vegan"
+        },
+        "description": {
+          "fr": "Cacahuète grillée et légumes",
+          "en": "Cacahuète grillée et légumes",
+          "zh": "Cacahuète grillée et légumes",
+          "hi": "Cacahuète grillée et légumes"
+        },
+        "price": 2000
+      },
+      {
+        "number": "03",
+        "name": {
+          "fr": "Egg Bhurji",
+          "en": "Egg Bhurji",
+          "zh": "Egg Bhurji",
+          "hi": "Egg Bhurji"
+        },
+        "description": {
+          "fr": "Œufs et légumes",
+          "en": "Scrambled eggs with vegetables",
+          "zh": "蔬菜炒鸡蛋",
+          "hi": "सब्जी के साथ अंडा भुर्जी"
+        },
+        "price": 2500
+      },
+      {
+        "number": "04",
+        "name": {
+          "fr": "Green Salad",
+          "en": "Green Salad",
+          "zh": "绿色沙拉",
+          "hi": "ग्रीन सलाद"
+        },
+        "description": {
+          "fr": "Salade légumes",
+          "en": "Fresh vegetable salad",
+          "zh": "新鲜蔬菜沙拉",
+          "hi": "ताज़ा सब्जियों का सलाद"
+        },
+        "price": 1000
+      }
+    ]
+  },
+  {
+    "category": {
+      "fr": "Soupe",
+      "en": "Soup",
+      "zh": "汤",
+      "hi": "सूप"
+    },
+    "items": [
+      {
+        "number": "05",
+        "name": {
+          "fr": "Veg Manchow",
+          "en": "Veg Manchow",
+          "zh": "Veg Manchow",
+          "hi": "Veg Manchow"
+        },
+        "description": {
+          "fr": "Légumes et nouilles fire",
+          "en": "Vegetable Manchow soup with fried noodles",
+          "zh": "蔬菜曼乔汤配炸面条",
+          "hi": "फ्राइड नूडल्स के साथ वेज मंचाऊ सूप"
+        },
+        "price": 3000
+      },
+      {
+        "number": "06",
+        "name": {
+          "fr": "Chicken Manchow Soup",
+          "en": "Chicken Manchow Soup",
+          "zh": "Chicken Manchow Soup",
+          "hi": "Chicken Manchow Soup"
+        },
+        "description": {
+          "fr": "Poulet légumes avec nouilles fire",
+          "en": "Chicken and vegetable Manchow soup with fried noodles",
+          "zh": "鸡肉蔬菜曼乔汤配炸面条",
+          "hi": "चिकन और सब्जियों का मंचाऊ सूप"
+        },
+        "price": 4000
+      }
+    ]
+  },
+  {
+    "category": {
+      "fr": "Entrées végétariennes",
+      "en": "Veg Starters",
+      "zh": "素食前菜",
+      "hi": "शाकाहारी स्टार्टर"
+    },
+    "items": [
+      {
+        "number": "07",
+        "name": {
+          "fr": "Sharma Samosa Vegan",
+          "en": "Sharma Samosa Vegan",
+          "zh": "Sharma Samosa Vegan",
+          "hi": "Sharma Samosa Vegan"
+        },
+        "description": {
+          "fr": "Pâte avec pomme de terre",
+          "en": "Samosa filled with potato",
+          "zh": "土豆馅咖喱角",
+          "hi": "आलू से भरा समोसा"
+        },
+        "price": 5000
+      },
+      {
+        "number": "08",
+        "name": {
+          "fr": "Aloo Tikki",
+          "en": "Aloo Tikki",
+          "zh": "Aloo Tikki",
+          "hi": "Aloo Tikki"
+        },
+        "description": {
+          "fr": "Croquette de pomme de terre avec yaourt et chutney vert",
+          "en": "Croquette de pomme de terre avec yaourt et chutney vert",
+          "zh": "Croquette de pomme de terre avec yaourt et chutney vert",
+          "hi": "Croquette de pomme de terre avec yaourt et chutney vert"
+        },
+        "price": 5000
+      },
+      {
+        "number": "09",
+        "name": {
+          "fr": "Pakora Vegan",
+          "en": "Pakora Vegan",
+          "zh": "Pakora Vegan",
+          "hi": "Pakora Vegan"
+        },
+        "description": {
+          "fr": "Légumes frits dans farine des pois chiches",
+          "en": "Vegetables fried in chickpea flour",
+          "zh": "鹰嘴豆粉炸蔬菜",
+          "hi": "चने के आटे में तली हुई सब्जियाँ"
+        },
+        "price": 5000
+      },
+      {
+        "number": "10",
+        "name": {
+          "fr": "Mirchi Bhaji Vegan",
+          "en": "Mirchi Bhaji Vegan",
+          "zh": "Mirchi Bhaji Vegan",
+          "hi": "Mirchi Bhaji Vegan"
+        },
+        "description": {
+          "fr": "Piment vert avec pomme de terre et frit dans farine de pois chiches",
+          "en": "Green chilli with potato, fried in chickpea flour",
+          "zh": "青辣椒和土豆，用鹰嘴豆粉炸制",
+          "hi": "आलू के साथ हरी मिर्च, चने के आटे में तली हुई"
+        },
+        "price": 3000
+      },
+      {
+        "number": "11",
+        "name": {
+          "fr": "Hara Bhara Kabab Vegan",
+          "en": "Hara Bhara Kabab Vegan",
+          "zh": "Hara Bhara Kabab Vegan",
+          "hi": "Hara Bhara Kabab Vegan"
+        },
+        "description": {
+          "fr": "Croquette de légume",
+          "en": "Vegetable croquettes",
+          "zh": "蔬菜烤肉饼",
+          "hi": "सब्जियों के कबाब"
+        },
+        "price": 4000
+      },
+      {
+        "number": "12",
+        "name": {
+          "fr": "Chilli Potato Vegan",
+          "en": "Chilli Potato Vegan",
+          "zh": "Chilli Potato Vegan",
+          "hi": "Chilli Potato Vegan"
+        },
+        "description": {
+          "fr": "Sauce chili avec frites légumes",
+          "en": "Chilli sauce with potato fries",
+          "zh": "辣椒酱土豆薯条",
+          "hi": "चिली सॉस के साथ आलू फ्राइज़"
+        },
+        "price": 5000
+      },
+      {
+        "number": "13",
+        "name": {
+          "fr": "Chilli Paneer",
+          "en": "Chilli Paneer",
+          "zh": "Chilli Paneer",
+          "hi": "Chilli Paneer"
+        },
+        "description": {
+          "fr": "Sauce chili avec fromage cottage et légumes",
+          "en": "Chilli sauce with cottage cheese and vegetables",
+          "zh": "辣椒酱奶酪配蔬菜",
+          "hi": "चिली सॉस के साथ पनीर और सब्जियाँ"
+        },
+        "price": 6000
+      },
+      {
+        "number": "14",
+        "name": {
+          "fr": "Veg Chowmein Vegan",
+          "en": "Veg Chowmein Vegan",
+          "zh": "Veg Chowmein Vegan",
+          "hi": "Veg Chowmein Vegan"
+        },
+        "description": {
+          "fr": "Nouilles sautée avec légume",
+          "en": "Stir-fried noodles with vegetables",
+          "zh": "蔬菜炒面",
+          "hi": "सब्जियों के साथ फ्राइड नूडल्स"
+        },
+        "price": 5000
+      }
+    ]
+  },
+  {
+    "category": {
+      "fr": "Entrées non végétariennes",
+      "en": "Non-Veg Starters",
+      "zh": "非素食前菜",
+      "hi": "मांसाहारी स्टार्टर"
+    },
+    "items": [
+      {
+        "number": "15",
+        "name": {
+          "fr": "Chilli Chicken",
+          "en": "Chilli Chicken",
+          "zh": "Chilli Chicken",
+          "hi": "Chilli Chicken"
+        },
+        "description": {
+          "fr": "Sauce chilli avec poulet blanc et légume",
+          "en": "Chilli sauce with white chicken and vegetables",
+          "zh": "辣椒酱鸡肉配蔬菜",
+          "hi": "चिली सॉस के साथ चिकन और सब्जियाँ"
+        },
+        "price": 6000
+      },
+      {
+        "number": "16",
+        "name": {
+          "fr": "Chilli Prawn",
+          "en": "Chilli Prawn",
+          "zh": "Chilli Prawn",
+          "hi": "Chilli Prawn"
+        },
+        "description": {
+          "fr": "Sauce chili avec crevettes et légume",
+          "en": "Chilli sauce with prawns and vegetables",
+          "zh": "辣椒酱虾仁配蔬菜",
+          "hi": "चिली सॉस के साथ झी子和蔬菜"
+        },
+        "price": 7000
+      },
+      {
+        "number": "17",
+        "name": {
+          "fr": "Kung Pao Chicken",
+          "en": "Kung Pao Chicken",
+          "zh": "Kung Pao Chicken",
+          "hi": "Kung Pao Chicken"
+        },
+        "description": {
+          "fr": "Sauce sucre avec poulet blanc et légume",
+          "en": "Sweet sauce with white chicken and vegetables",
+          "zh": "甜酱鸡肉配蔬菜",
+          "hi": "मीठी सॉस के साथ चिकन और सब्जियाँ"
+        },
+        "price": 6000
+      },
+      {
+        "number": "18",
+        "name": {
+          "fr": "Drums of Heaven",
+          "en": "Drums of Heaven",
+          "zh": "Drums of Heaven",
+          "hi": "Drums of Heaven"
+        },
+        "description": {
+          "fr": "Soucette au ailes de poulet",
+          "en": "Chicken wings",
+          "zh": "鸡翅",
+          "hi": "चिकन विंग्स"
+        },
+        "price": 6000
+      },
+      {
+        "number": "19",
+        "name": {
+          "fr": "Chicken Chowmein",
+          "en": "Chicken Chowmein",
+          "zh": "Chicken Chowmein",
+          "hi": "Chicken Chowmein"
+        },
+        "description": {
+          "fr": "Nouilles sautée avec légume et poulet blanc",
+          "en": "Stir-fried noodles with vegetables and white chicken",
+          "zh": "蔬菜鸡肉炒面",
+          "hi": "सब्जियों और चिकन के साथ फ्राइड नूडल्स"
+        },
+        "price": 6000
+      },
+      {
+        "number": "20",
+        "name": {
+          "fr": "Prawn Chowmein",
+          "en": "Prawn Chowmein",
+          "zh": "Prawn Chowmein",
+          "hi": "Prawn Chowmein"
+        },
+        "description": {
+          "fr": "Nouilles sautée avec légume et crevettes",
+          "en": "Stir-fried noodles with vegetables and prawns",
+          "zh": "蔬菜虾仁炒面",
+          "hi": "सब्जियों और झींगों के साथ फ्राइड नूडल्स"
+        },
+        "price": 7000
+      }
+    ]
+  },
+  {
+    "category": {
+      "fr": "Raviolis / Momos",
+      "en": "Dumplings / Momos",
+      "zh": "饺子 / Momos",
+      "hi": "डम्पलिंग्स / मोमोज"
+    },
+    "items": [
+      {
+        "number": "21",
+        "name": {
+          "fr": "Veg Momo Vegan",
+          "en": "Veg Momo Vegan",
+          "zh": "Veg Momo Vegan",
+          "hi": "Veg Momo Vegan"
+        },
+        "description": {
+          "fr": "Raviolis avec légumes",
+          "en": "Vegetable dumplings",
+          "zh": "蔬菜饺子",
+          "hi": "सब्जियों के मोमो"
+        },
+        "price": 5000
+      },
+      {
+        "number": "22",
+        "name": {
+          "fr": "Paneer Momo",
+          "en": "Paneer Momo",
+          "zh": "Paneer Momo",
+          "hi": "Paneer Momo"
+        },
+        "description": {
+          "fr": "Raviolis avec fromage indien et légumes",
+          "en": "Dumplings with Indian cheese and vegetables",
+          "zh": "印度奶酪蔬菜饺子",
+          "hi": "पनीर और सब्जियों के मोमो"
+        },
+        "price": 6000
+      },
+      {
+        "number": "23",
+        "name": {
+          "fr": "Chicken Steamed Momos",
+          "en": "Chicken Steamed Momos",
+          "zh": "Chicken Steamed Momos",
+          "hi": "Chicken Steamed Momos"
+        },
+        "description": {
+          "fr": "Raviolis avec poulet haché et légumes, steamed or fried",
+          "en": "Chicken and vegetable dumplings, steamed or fried",
+          "zh": "鸡肉蔬菜饺子，可蒸或炸",
+          "hi": "चिकन और सब्जियों के मोमो, स्टीम्ड या फ्राइड"
+        },
+        "price": 7000
+      }
+    ]
+  },
+  {
+    "category": {
+      "fr": "Cuits dans un four",
+      "en": "Tandoori",
+      "zh": "坦都里烤制",
+      "hi": "तंदूरी"
+    },
+    "items": [
+      {
+        "number": "24",
+        "name": {
+          "fr": "Tandoori Chicken",
+          "en": "Tandoori Chicken",
+          "zh": "坦都里鸡",
+          "hi": "तंदूरी चिकन"
+        },
+        "description": {
+          "fr": "Cuisse de poulet marinée au yaourt et aux épices",
+          "en": "Chicken leg marinated in yogurt and spices",
+          "zh": "酸奶和香料腌制的鸡腿",
+          "hi": "दही और मसालों में मैरीनेट किया हुआ चिकन लेग"
+        },
+        "price": 7000
+      },
+      {
+        "number": "25",
+        "name": {
+          "fr": "Chicken Malai Tikka",
+          "en": "Chicken Malai Tikka",
+          "zh": "Chicken Malai Tikka",
+          "hi": "Chicken Malai Tikka"
+        },
+        "description": {
+          "fr": "Poitrine de poulet marinée au yaourt, noix de cajou et cardamome",
+          "en": "Chicken breast marinated with yogurt, cashew nuts and cardamom",
+          "zh": "酸奶、腰果和豆蔻腌制的鸡胸肉",
+          "hi": "दही, काजू और इलायची में मैरीनेट किया हुआ चिकन"
+        },
+        "price": 7000
+      },
+      {
+        "number": "26",
+        "name": {
+          "fr": "Chicken Tikka",
+          "en": "Chicken Tikka",
+          "zh": "鸡肉提卡",
+          "hi": "चिकन टिक्का"
+        },
+        "description": {
+          "fr": "Poitrine de poulet marinée au yaourt et épices",
+          "en": "Chicken breast marinated in yogurt and spices",
+          "zh": "酸奶和香料腌制的鸡胸肉",
+          "hi": "दही और मसालों में मैरीनेट किया हुआ चिकन"
+        },
+        "price": 7000
+      },
+      {
+        "number": "27",
+        "name": {
+          "fr": "Lahori Chicken Tikka",
+          "en": "Lahori Chicken Tikka",
+          "zh": "Lahori Chicken Tikka",
+          "hi": "Lahori Chicken Tikka"
+        },
+        "description": {
+          "fr": "Poitrine de poulet marinée, noix de cajou, ail et yaourt",
+          "en": "Chicken breast marinated with cashew nuts, garlic and yogurt",
+          "zh": "腰果、大蒜和酸奶腌制的鸡胸肉",
+          "hi": "काजू, लहसुन और दही में मैरीनेट किया हुआ चिकन"
+        },
+        "price": 7000
+      },
+      {
+        "number": "28",
+        "name": {
+          "fr": "Paneer Tikka",
+          "en": "Paneer Tikka",
+          "zh": "奶酪提卡",
+          "hi": "पनीर टिक्का"
+        },
+        "description": {
+          "fr": "Fromage indien au lait mariné dans du yaourt et des épices",
+          "en": "Indian cheese marinated in yogurt and spices",
+          "zh": "酸奶和香料腌制的印度奶酪",
+          "hi": "दही और मसालों में मैरीनेट किया हुआ पनीर"
+        },
+        "price": 6000
+      },
+      {
+        "number": "29",
+        "name": {
+          "fr": "Chicken Seekh Kabab",
+          "en": "Chicken Seekh Kabab",
+          "zh": "Chicken Seekh Kabab",
+          "hi": "Chicken Seekh Kabab"
+        },
+        "description": {
+          "fr": "Poulet haché aux saveurs et épices indiennes",
+          "en": "Minced chicken with Indian flavors and spices",
+          "zh": "印度风味香料鸡肉末烤肉串",
+          "hi": "भारतीय मसालों वाला कीमा चिकन कबाब"
+        },
+        "price": 7000
+      },
+      {
+        "number": "30",
+        "name": {
+          "fr": "Mutton Seekh Kabab",
+          "en": "Mutton Seekh Kabab",
+          "zh": "Mutton Seekh Kabab",
+          "hi": "Mutton Seekh Kabab"
+        },
+        "description": {
+          "fr": "Mouton haché aux saveurs et épices indiennes",
+          "en": "Minced mutton with Indian flavors and spices",
+          "zh": "印度风味香料羊肉末烤肉串",
+          "hi": "भारतीय मसालों वाला कीमा मटन कबाब"
+        },
+        "price": 8000
+      }
+    ]
+  },
+  {
+    "category": {
+      "fr": "Curry végétarien",
+      "en": "Veg Curry",
+      "zh": "素食咖喱",
+      "hi": "शाकाहारी करी"
+    },
+    "items": [
+      {
+        "number": "31",
+        "name": {
+          "fr": "Egg Curry",
+          "en": "Egg Curry",
+          "zh": "Egg Curry",
+          "hi": "Egg Curry"
+        },
+        "description": {
+          "fr": "Curry d'œuf",
+          "en": "Egg curry",
+          "zh": "鸡蛋咖喱",
+          "hi": "अंडा करी"
+        },
+        "price": 4000
+      },
+      {
+        "number": "32",
+        "name": {
+          "fr": "Dal Tadka Vegan",
+          "en": "Dal Tadka Vegan",
+          "zh": "Dal Tadka Vegan",
+          "hi": "Dal Tadka Vegan"
+        },
+        "description": {
+          "fr": "Curry de lentilles jaune",
+          "en": "Yellow lentil curry",
+          "zh": "黄扁豆咖喱",
+          "hi": "पीली दाल करी"
+        },
+        "price": 4000
+      },
+      {
+        "number": "33",
+        "name": {
+          "fr": "Aubergine & Potato Vegan",
+          "en": "Aubergine & Potato Vegan",
+          "zh": "Aubergine & Potato Vegan",
+          "hi": "Aubergine & Potato Vegan"
+        },
+        "description": {
+          "fr": "Curry d'aubergines et pommes de terre",
+          "en": "Aubergine and potato curry",
+          "zh": "茄子土豆咖喱",
+          "hi": "बैंगन और आलू की करी"
+        },
+        "price": 3000
+      },
+      {
+        "number": "34",
+        "name": {
+          "fr": "Paneer Bhurji",
+          "en": "Paneer Bhurji",
+          "zh": "Paneer Bhurji",
+          "hi": "Paneer Bhurji"
+        },
+        "description": {
+          "fr": "Fromage indien au lait avec légume",
+          "en": "Indian cheese with vegetables",
+          "zh": "印度奶酪配蔬菜",
+          "hi": "सब्जियों के साथ पनीर भुर्जी"
+        },
+        "price": 4000
+      },
+      {
+        "number": "35",
+        "name": {
+          "fr": "Dal Makhni",
+          "en": "Dal Makhni",
+          "zh": "Dal Makhni",
+          "hi": "Dal Makhni"
+        },
+        "description": {
+          "fr": "Curry de lentilles noire",
+          "en": "Black lentil curry",
+          "zh": "黑扁豆咖喱",
+          "hi": "काली दाल की करी"
+        },
+        "price": 5000
+      },
+      {
+        "number": "36",
+        "name": {
+          "fr": "Aloo Gobhi Vegan",
+          "en": "Aloo Gobhi Vegan",
+          "zh": "Aloo Gobhi Vegan",
+          "hi": "Aloo Gobhi Vegan"
+        },
+        "description": {
+          "fr": "Curry de chou-fleur et pomme de terre",
+          "en": "Curry de chou-fleur et pomme de terre",
+          "zh": "Curry de chou-fleur et pomme de terre",
+          "hi": "Curry de chou-fleur et pomme de terre"
+        },
+        "price": 5000
+      },
+      {
+        "number": "37",
+        "name": {
+          "fr": "Chole Masala",
+          "en": "Chole Masala",
+          "zh": "Chole Masala",
+          "hi": "Chole Masala"
+        },
+        "description": {
+          "fr": "Curry aux pois chiches",
+          "en": "Chickpea curry",
+          "zh": "鹰嘴豆咖喱",
+          "hi": "चना मसाला"
+        },
+        "price": 5000
+      },
+      {
+        "number": "38",
+        "name": {
+          "fr": "Aloo Palak Vegan",
+          "en": "Aloo Palak Vegan",
+          "zh": "Aloo Palak Vegan",
+          "hi": "Aloo Palak Vegan"
+        },
+        "description": {
+          "fr": "Curry aux épinards et pomme de terre",
+          "en": "Curry aux épinards et pomme de terre",
+          "zh": "Curry aux épinards et pomme de terre",
+          "hi": "Curry aux épinards et pomme de terre"
+        },
+        "price": 5000
+      },
+      {
+        "number": "39",
+        "name": {
+          "fr": "Palak Paneer",
+          "en": "Palak Paneer",
+          "zh": "Palak Paneer",
+          "hi": "Palak Paneer"
+        },
+        "description": {
+          "fr": "Curry aux épinards et fromage cottage",
+          "en": "Spinach and cottage cheese curry",
+          "zh": "菠菜奶酪咖喱",
+          "hi": "पालक पनीर करी"
+        },
+        "price": 7000
+      },
+      {
+        "number": "40",
+        "name": {
+          "fr": "Mixed Veg",
+          "en": "Mixed Veg",
+          "zh": "Mixed Veg",
+          "hi": "Mixed Veg"
+        },
+        "description": {
+          "fr": "Curry de légumes mélangés",
+          "en": "Mixed vegetable curry",
+          "zh": "什锦蔬菜咖喱",
+          "hi": "मिक्स वेज करी"
+        },
+        "price": 7000
+      },
+      {
+        "number": "41",
+        "name": {
+          "fr": "Paneer Lababdar",
+          "en": "Paneer Lababdar",
+          "zh": "Paneer Lababdar",
+          "hi": "Paneer Lababdar"
+        },
+        "description": {
+          "fr": "Curry de fromage indien et légume",
+          "en": "Indian cheese and vegetable curry",
+          "zh": "印度奶酪蔬菜咖喱",
+          "hi": "पनीर और सब्जियों की करी"
+        },
+        "price": 7000
+      },
+      {
+        "number": "42",
+        "name": {
+          "fr": "Matar Paneer",
+          "en": "Matar Paneer",
+          "zh": "Matar Paneer",
+          "hi": "Matar Paneer"
+        },
+        "description": {
+          "fr": "Curry de fromage indien et petits pois",
+          "en": "Indian cheese and green peas curry",
+          "zh": "印度奶酪豌豆咖喱",
+          "hi": "मटर पनीर करी"
+        },
+        "price": 6000
+      },
+      {
+        "number": "43",
+        "name": {
+          "fr": "Paneer Tikka Masala",
+          "en": "Paneer Tikka Masala",
+          "zh": "Paneer Tikka Masala",
+          "hi": "Paneer Tikka Masala"
+        },
+        "description": {
+          "fr": "Curry de fromage indien et légume grillé",
+          "en": "Grilled Indian cheese and vegetable curry",
+          "zh": "烤印度奶酪蔬菜咖喱",
+          "hi": "ग्रिल्ड पनीर और सब्जियों की करी"
+        },
+        "price": 7000
+      }
+    ]
+  },
+  {
+    "category": {
+      "fr": "Curry non végétarien",
+      "en": "Non-Veg Curry",
+      "zh": "非素食咖喱",
+      "hi": "मांसाहारी करी"
+    },
+    "items": [
+      {
+        "number": "44",
+        "name": {
+          "fr": "Butter Chicken",
+          "en": "Butter Chicken",
+          "zh": "黄油鸡",
+          "hi": "बटर चिकन"
+        },
+        "description": {
+          "fr": "Curry de poulet blanc grillé avec noix de cajou",
+          "en": "Grilled white chicken curry with cashew nuts",
+          "zh": "烤鸡肉咖喱配腰果",
+          "hi": "काजू के साथ ग्रिल्ड चिकन करी"
+        },
+        "price": 8000
+      },
+      {
+        "number": "45",
+        "name": {
+          "fr": "Chicken Tikka Masala",
+          "en": "Chicken Tikka Masala",
+          "zh": "Chicken Tikka Masala",
+          "hi": "Chicken Tikka Masala"
+        },
+        "description": {
+          "fr": "Curry de poulet blanc grillé",
+          "en": "Grilled white chicken curry",
+          "zh": "烤鸡肉咖喱",
+          "hi": "ग्रिल्ड चिकन करी"
+        },
+        "price": 8000
+      },
+      {
+        "number": "46",
+        "name": {
+          "fr": "Palak Chicken",
+          "en": "Palak Chicken",
+          "zh": "Palak Chicken",
+          "hi": "Palak Chicken"
+        },
+        "description": {
+          "fr": "Curry de poulet blanc avec épinards",
+          "en": "White chicken curry with spinach",
+          "zh": "菠菜鸡肉咖喱",
+          "hi": "पालक चिकन करी"
+        },
+        "price": 8000
+      },
+      {
+        "number": "47",
+        "name": {
+          "fr": "Kadhai Chicken",
+          "en": "Kadhai Chicken",
+          "zh": "Kadhai Chicken",
+          "hi": "Kadhai Chicken"
+        },
+        "description": {
+          "fr": "Curry de poulet blanc avec légumes",
+          "en": "White chicken curry with vegetables",
+          "zh": "鸡肉蔬菜咖喱",
+          "hi": "सब्जियों के साथ कड़ाही चिकन"
+        },
+        "price": 8000
+      },
+      {
+        "number": "48",
+        "name": {
+          "fr": "Prawn Makhni",
+          "en": "Prawn Makhni",
+          "zh": "Prawn Makhni",
+          "hi": "Prawn Makhni"
+        },
+        "description": {
+          "fr": "Curry de crevettes dans sauce makhni",
+          "en": "Prawn curry in makhni sauce",
+          "zh": "玛卡尼酱虾仁咖喱",
+          "hi": "मखनी सॉस में झींगा करी"
+        },
+        "price": 8000
+      },
+      {
+        "number": "49",
+        "name": {
+          "fr": "Prawn Masala",
+          "en": "Prawn Masala",
+          "zh": "Prawn Masala",
+          "hi": "Prawn Masala"
+        },
+        "description": {
+          "fr": "Curry de crevettes dans sauce masala",
+          "en": "Prawn curry in masala sauce",
+          "zh": "玛萨拉酱虾仁咖喱",
+          "hi": "मसाला सॉस में झींगा करी"
+        },
+        "price": 8000
+      },
+      {
+        "number": "50",
+        "name": {
+          "fr": "Chicken Do Pyaza",
+          "en": "Chicken Do Pyaza",
+          "zh": "Chicken Do Pyaza",
+          "hi": "Chicken Do Pyaza"
+        },
+        "description": {
+          "fr": "Curry de poulet blanc avec oignon",
+          "en": "White chicken curry with onion",
+          "zh": "洋葱鸡肉咖喱",
+          "hi": "प्याज़ के साथ चिकन करी"
+        },
+        "price": 8000
+      },
+      {
+        "number": "51",
+        "name": {
+          "fr": "Mutton Curry",
+          "en": "Mutton Curry",
+          "zh": "羊肉咖喱",
+          "hi": "मटन करी"
+        },
+        "description": {
+          "fr": "Tendre mouton curry avec épices",
+          "en": "Tender mutton curry with spices",
+          "zh": "香料嫩羊肉咖喱",
+          "hi": "मसालों वाली नरम मटन करी"
+        },
+        "price": 9000
+      },
+      {
+        "number": "52",
+        "name": {
+          "fr": "Mutton Roganjosh",
+          "en": "Mutton Roganjosh",
+          "zh": "Mutton Roganjosh",
+          "hi": "Mutton Roganjosh"
+        },
+        "description": {
+          "fr": "Tendre mouton curry avec épices",
+          "en": "Tender mutton curry with spices",
+          "zh": "香料嫩羊肉咖喱",
+          "hi": "मसालों वाली मटन रोगन乔什"
+        },
+        "price": 9000
+      },
+      {
+        "number": "53",
+        "name": {
+          "fr": "Coconut Fish Curry",
+          "en": "Coconut Fish Curry",
+          "zh": "Coconut Fish Curry",
+          "hi": "Coconut Fish Curry"
+        },
+        "description": {
+          "fr": "Curry de poisson à la noix de coco",
+          "en": "Fish curry with coconut",
+          "zh": "椰香鱼咖喱",
+          "hi": "नारियल के साथ मछली करी"
+        },
+        "price": 8000
+      }
+    ]
+  },
+  {
+    "category": {
+      "fr": "Riz",
+      "en": "Rice",
+      "zh": "米饭",
+      "hi": "चावल"
+    },
+    "items": [
+      {
+        "number": "54",
+        "name": {
+          "fr": "Basmati Rice Vegan",
+          "en": "Basmati Rice Vegan",
+          "zh": "Basmati Rice Vegan",
+          "hi": "Basmati Rice Vegan"
+        },
+        "description": {
+          "fr": "Riz basmati",
+          "en": "Riz basmati",
+          "zh": "Riz basmati",
+          "hi": "Riz basmati"
+        },
+        "price": 2000
+      },
+      {
+        "number": "55",
+        "name": {
+          "fr": "Jeera Rice Vegan",
+          "en": "Jeera Rice Vegan",
+          "zh": "Jeera Rice Vegan",
+          "hi": "Jeera Rice Vegan"
+        },
+        "description": {
+          "fr": "Riz basmati avec cumin",
+          "en": "Riz basmati avec cumin",
+          "zh": "Riz basmati avec cumin",
+          "hi": "Riz basmati avec cumin"
+        },
+        "price": 2000
+      },
+      {
+        "number": "56",
+        "name": {
+          "fr": "Saffron Pulao Vegan",
+          "en": "Saffron Pulao Vegan",
+          "zh": "Saffron Pulao Vegan",
+          "hi": "Saffron Pulao Vegan"
+        },
+        "description": {
+          "fr": "Riz basmati avec safran, petits pois et cumin",
+          "en": "Riz basmati avec safran, petits pois et cumin",
+          "zh": "Riz basmati avec safran, petits pois et cumin",
+          "hi": "Riz basmati avec safran, petits pois et cumin"
+        },
+        "price": 2500
+      },
+      {
+        "number": "57",
+        "name": {
+          "fr": "Veg Fried Rice Vegan",
+          "en": "Veg Fried Rice Vegan",
+          "zh": "Veg Fried Rice Vegan",
+          "hi": "Veg Fried Rice Vegan"
+        },
+        "description": {
+          "fr": "Riz basmati sauté avec légumes",
+          "en": "Riz basmati sauté avec légumes",
+          "zh": "Riz basmati sauté avec légumes",
+          "hi": "Riz basmati sauté avec légumes"
+        },
+        "price": 4000
+      },
+      {
+        "number": "58",
+        "name": {
+          "fr": "Chicken Fried Rice",
+          "en": "Chicken Fried Rice",
+          "zh": "Chicken Fried Rice",
+          "hi": "Chicken Fried Rice"
+        },
+        "description": {
+          "fr": "Riz basmati sauté avec légume et poulet blanc",
+          "en": "Stir-fried basmati rice with vegetables and white chicken",
+          "zh": "鸡肉蔬菜炒印度香米",
+          "hi": "चिकन और सब्जियों के साथ फ्राइड बासमती चावल"
+        },
+        "price": 5000
+      },
+      {
+        "number": "59",
+        "name": {
+          "fr": "Prawn Fried Rice",
+          "en": "Prawn Fried Rice",
+          "zh": "Prawn Fried Rice",
+          "hi": "Prawn Fried Rice"
+        },
+        "description": {
+          "fr": "Riz basmati sauté avec légume et crevettes",
+          "en": "Stir-fried basmati rice with vegetables and prawns",
+          "zh": "虾仁蔬菜炒印度香米",
+          "hi": "झींगे और सब्जियों के साथ फ्राइड बासमती चावल"
+        },
+        "price": 6000
+      },
+      {
+        "number": "60",
+        "name": {
+          "fr": "Spicy Shewan Fried Rice with half fried egg",
+          "en": "Spicy Shewan Fried Rice with half fried egg",
+          "zh": "Spicy Shewan Fried Rice with half fried egg",
+          "hi": "Spicy Shewan Fried Rice with half fried egg"
+        },
+        "description": {
+          "fr": "Riz frit épicé de Shewan avec un demi-œuf au plat",
+          "en": "Spicy Schezwan fried rice with a half-fried egg",
+          "zh": "香辣四川炒饭配半熟煎蛋",
+          "hi": "आधे तले अंडे के साथ मसालेदार शेज़वान फ्राइड राइस"
+        },
+        "price": 5000
+      },
+      {
+        "number": "61",
+        "name": {
+          "fr": "Lemon Rice Vegan",
+          "en": "Lemon Rice Vegan",
+          "zh": "Lemon Rice Vegan",
+          "hi": "Lemon Rice Vegan"
+        },
+        "description": {
+          "fr": "Riz basmati aux arachides, curcuma et citron",
+          "en": "Riz basmati aux arachides, curcuma et citron",
+          "zh": "Riz basmati aux arachides, curcuma et citron",
+          "hi": "Riz basmati aux arachides, curcuma et citron"
+        },
+        "price": 4000
+      },
+      {
+        "number": "62",
+        "name": {
+          "fr": "Chicken Biryani",
+          "en": "Chicken Biryani",
+          "zh": "鸡肉比尔亚尼",
+          "hi": "चिकन बिरयानी"
+        },
+        "description": {
+          "fr": "Riz basmati avec cuisse de poulet",
+          "en": "Basmati rice with chicken leg",
+          "zh": "鸡腿印度香饭",
+          "hi": "चिकन लेग के साथ बासमती बिरयानी"
+        },
+        "price": 8000
+      }
+    ]
+  },
+  {
+    "category": {
+      "fr": "Pain indien",
+      "en": "Naan / Indian Bread",
+      "zh": "印度面包",
+      "hi": "नान / भारतीय面包"
+    },
+    "items": [
+      {
+        "number": "63",
+        "name": {
+          "fr": "Tandoori Roti",
+          "en": "Tandoori Roti",
+          "zh": "Tandoori Roti",
+          "hi": "Tandoori Roti"
+        },
+        "description": {
+          "fr": "Pain indien à base de farine de blé aux four",
+          "en": "Indian wheat-flour bread cooked in a tandoor",
+          "zh": "坦都里烤制的印度小麦面饼",
+          "hi": "तंदूर में पकी भारतीय गेहूँ की रोटी"
+        },
+        "price": 1000
+      },
+      {
+        "number": "64",
+        "name": {
+          "fr": "Tawa Roti",
+          "en": "Tawa Roti",
+          "zh": "Tawa Roti",
+          "hi": "Tawa Roti"
+        },
+        "description": {
+          "fr": "Pain indien à base de farine de blé aux sur une poêle",
+          "en": "Indian wheat-flour bread cooked on a pan",
+          "zh": "平底锅烹制的印度小麦面饼",
+          "hi": "तवे पर पकी भारतीय गेहूँ की रोटी"
+        },
+        "price": 500
+      },
+      {
+        "number": "65",
+        "name": {
+          "fr": "Lachha Paratha",
+          "en": "Lachha Paratha",
+          "zh": "Lachha Paratha",
+          "hi": "Lachha Paratha"
+        },
+        "description": {
+          "fr": "Pain indien avec farine de blé étagé et croustillant à la menthe",
+          "en": "Layered crispy wheat bread with mint",
+          "zh": "分层酥脆薄饼配薄荷",
+          "hi": "पुदीने के साथ परतदार कुरकुरी पराठा"
+        },
+        "price": 2000
+      },
+      {
+        "number": "66",
+        "name": {
+          "fr": "Tawa Paratha",
+          "en": "Tawa Paratha",
+          "zh": "Tawa Paratha",
+          "hi": "Tawa Paratha"
+        },
+        "description": {
+          "fr": "Pain indien à base de farine de blé et huile sur une poêle",
+          "en": "Wheat-flour bread with oil cooked on a pan",
+          "zh": "平底锅油煎印度小麦面饼",
+          "hi": "तेल के साथ तवे पर पका गेहूँ का पराठा"
+        },
+        "price": 1000
+      },
+      {
+        "number": "67",
+        "name": {
+          "fr": "Plain Naan",
+          "en": "Plain Naan",
+          "zh": "原味印度烤饼",
+          "hi": "प्लेन नान"
+        },
+        "description": {
+          "fr": "Pain indien à base de farine blanche aux four",
+          "en": "Plain white-flour naan cooked in a tandoor",
+          "zh": "坦都里原味白面烤饼",
+          "hi": "तंदूर में पका सादा नान"
+        },
+        "price": 1000
+      },
+      {
+        "number": "68",
+        "name": {
+          "fr": "Garlic Naan",
+          "en": "Garlic Naan",
+          "zh": "蒜香烤饼",
+          "hi": "गार्लिक नान"
+        },
+        "description": {
+          "fr": "Pain indien à base de farine blanche et ail aux four",
+          "en": "White-flour naan with garlic cooked in a tandoor",
+          "zh": "坦都里蒜香白面烤饼",
+          "hi": "लहसुन वाला तंदूरी नान"
+        },
+        "price": 2000
+      },
+      {
+        "number": "69",
+        "name": {
+          "fr": "Butter Naan",
+          "en": "Butter Naan",
+          "zh": "Butter Naan",
+          "hi": "Butter Naan"
+        },
+        "description": {
+          "fr": "Pain indien à base de farine blanche et beurre aux four",
+          "en": "White-flour naan with butter cooked in a tandoor",
+          "zh": "坦都里黄油白面烤饼",
+          "hi": "मक्खन वाला तंदूरी नान"
+        },
+        "price": 2000
+      },
+      {
+        "number": "70",
+        "name": {
+          "fr": "Cheese Naan",
+          "en": "Cheese Naan",
+          "zh": "芝士烤饼",
+          "hi": "चीज़ नान"
+        },
+        "description": {
+          "fr": "Pain indien à base de farine blanche et fromage cheddar aux four",
+          "en": "White-flour naan with cheddar cheese cooked in a tandoor",
+          "zh": "坦都里切达奶酪白面烤饼",
+          "hi": "चेडर चीज़ वाला तंदूरी नान"
+        },
+        "price": 3000
+      },
+      {
+        "number": "71",
+        "name": {
+          "fr": "Aloo Kulcha",
+          "en": "Aloo Kulcha",
+          "zh": "Aloo Kulcha",
+          "hi": "Aloo Kulcha"
+        },
+        "description": {
+          "fr": "Pain indien à base de farine blanche et pomme de terre aux four",
+          "en": "Pain indien à base de farine blanche et pomme de terre aux four",
+          "zh": "Pain indien à base de farine blanche et pomme de terre aux four",
+          "hi": "Pain indien à base de farine blanche et pomme de terre aux four"
+        },
+        "price": 2000
+      },
+      {
+        "number": "72",
+        "name": {
+          "fr": "Paneer Kulcha",
+          "en": "Paneer Kulcha",
+          "zh": "Paneer Kulcha",
+          "hi": "Paneer Kulcha"
+        },
+        "description": {
+          "fr": "Pain indien à base de farine blanche et fromage indien aux four",
+          "en": "White-flour bread with Indian cheese cooked in a tandoor",
+          "zh": "坦都里印度奶酪白面饼",
+          "hi": "पनीर वाला तंदूरी कुलचा"
+        },
+        "price": 2000
+      },
+      {
+        "number": "73",
+        "name": {
+          "fr": "Pyaz Kulcha",
+          "en": "Pyaz Kulcha",
+          "zh": "Pyaz Kulcha",
+          "hi": "Pyaz Kulcha"
+        },
+        "description": {
+          "fr": "Pain indien à base de farine blanche et oignon aux four",
+          "en": "White-flour bread with onion cooked in a tandoor",
+          "zh": "坦都里洋葱白面饼",
+          "hi": "प्याज़ वाला तंदूरी कुलचा"
+        },
+        "price": 2000
+      },
+      {
+        "number": "74",
+        "name": {
+          "fr": "Misai Roti",
+          "en": "Misai Roti",
+          "zh": "Misai Roti",
+          "hi": "Misai Roti"
+        },
+        "description": {
+          "fr": "Pain à la farine de pois chiche",
+          "en": "Pain à la farine de pois chiche",
+          "zh": "Pain à la farine de pois chiche",
+          "hi": "Pain à la farine de pois chiche"
+        },
+        "price": 1500
+      }
+    ]
+  },
+  {
+    "category": {
+      "fr": "Raita / Yaourt",
+      "en": "Raita / Yoghurt",
+      "zh": "酸奶",
+      "hi": "रायता / दही"
+    },
+    "items": [
+      {
+        "number": "75",
+        "name": {
+          "fr": "Plain Curd",
+          "en": "Plain Curd",
+          "zh": "Plain Curd",
+          "hi": "Plain Curd"
+        },
+        "description": {
+          "fr": "Yaourt nature",
+          "en": "Plain yogurt",
+          "zh": "原味酸奶",
+          "hi": "सादा दही"
+        },
+        "price": 1000
+      },
+      {
+        "number": "76",
+        "name": {
+          "fr": "Boondi Raita",
+          "en": "Boondi Raita",
+          "zh": "Boondi Raita",
+          "hi": "Boondi Raita"
+        },
+        "description": {
+          "fr": "Yaourt avec boule de pois chiche",
+          "en": "Yogurt with chickpea boondi",
+          "zh": "鹰嘴豆小丸子酸奶",
+          "hi": "बूंदी वाला रायता"
+        },
+        "price": 1500
+      },
+      {
+        "number": "77",
+        "name": {
+          "fr": "Mixed Veg Raita",
+          "en": "Mixed Veg Raita",
+          "zh": "Mixed Veg Raita",
+          "hi": "Mixed Veg Raita"
+        },
+        "description": {
+          "fr": "Yaourt avec légumes",
+          "en": "Yaourt avec légumes",
+          "zh": "Yaourt avec légumes",
+          "hi": "Yaourt avec légumes"
+        },
+        "price": 2000
+      }
+    ]
+  },
+  {
+    "category": {
+      "fr": "Desserts",
+      "en": "Sweets / Dessert",
+      "zh": "甜点",
+      "hi": "मिठाई"
+    },
+    "items": [
+      {
+        "number": "78",
+        "name": {
+          "fr": "Gulab Jamun",
+          "en": "Gulab Jamun",
+          "zh": "古拉布贾蒙",
+          "hi": "गुलाब जामुन"
+        },
+        "description": {
+          "fr": "Dessert à base de boules de lait frites au sucre",
+          "en": "Milk dumplings fried and served with sugar syrup",
+          "zh": "炸奶球配糖浆",
+          "hi": "चीनी की चाशनी में गुलाब जामुन"
+        },
+        "price": 3000
+      },
+      {
+        "number": "79",
+        "name": {
+          "fr": "Kulfi",
+          "en": "Kulfi",
+          "zh": "印度冰淇淋",
+          "hi": "कुल्फी"
+        },
+        "description": {
+          "fr": "Crème glacée au lait, amandes, noix de cajou, cardamome et safran",
+          "en": "Milk ice cream with almonds, cashews, cardamom and saffron",
+          "zh": "牛奶冰淇淋配杏仁、腰果、豆蔻和藏红花",
+          "hi": "बादाम, काजू, इलायची और केसर वाली कुल्फी"
+        },
+        "price": 3000
+      }
+    ]
+  },
+  {
+    "category": {
+      "fr": "Boissons non alcoolisées",
+      "en": "Non-Alcoholic Drinks",
+      "zh": "无酒精饮料",
+      "hi": "गैर-मादक पेय"
+    },
+    "items": [
+      {
+        "name": {
+          "fr": "Bouteille d'eau",
+          "en": "Water Bottle",
+          "zh": "瓶装水",
+          "hi": "पानी की बोतल"
+        },
+        "description": {
+          "fr": "Bouteille d'eau",
+          "en": "Bottled water",
+          "zh": "瓶装水",
+          "hi": "पानी की बोतल"
+        },
+        "price": 1500
+      },
+      {
+        "name": {
+          "fr": "Eau gazeuse",
+          "en": "Sparkling Water",
+          "zh": "气泡水",
+          "hi": "स्पार्कलिंग पानी"
+        },
+        "description": {
+          "fr": "Eau gazeuse",
+          "en": "Sparkling Water",
+          "zh": "气泡水",
+          "hi": "स्पार्कलिंग पानी"
+        },
+        "price": 1500
+      },
+      {
+        "name": {
+          "fr": "Coca / Fanta / Sprite",
+          "en": "Coca / Fanta / Sprite",
+          "zh": "可口可乐 / 芬达 / 雪碧",
+          "hi": "कोका / फैंटा / स्प्राइट"
+        },
+        "description": {
+          "fr": "Coca / Fanta / Sprite",
+          "en": "Coca / Fanta / Sprite",
+          "zh": "可口可乐 / 芬达 / 雪碧",
+          "hi": "कोका / फैंटा / स्प्राइट"
+        },
+        "price": 1500
+      },
+      {
+        "name": {
+          "fr": "Soda / Tonic",
+          "en": "Soda / Tonic",
+          "zh": "苏打水 / 汤力水",
+          "hi": "सोडा / टॉनिक"
+        },
+        "description": {
+          "fr": "Soda / Tonic",
+          "en": "Soda / Tonic",
+          "zh": "苏打水 / 汤力水",
+          "hi": "सोडा / टॉनिक"
+        },
+        "price": 1500
+      },
+      {
+        "name": {
+          "fr": "Coca Zéro",
+          "en": "Coca Zero",
+          "zh": "零度可乐",
+          "hi": "कोका ज़ीरो"
+        },
+        "description": {
+          "fr": "Coca Zéro",
+          "en": "Coca Zero",
+          "zh": "零度可乐",
+          "hi": "कोका ज़ीरो"
+        },
+        "price": 2000
+      },
+      {
+        "name": {
+          "fr": "Mojito Menthe",
+          "en": "Mojito Mint",
+          "zh": "薄荷莫希托",
+          "hi": "मिंट मोजिटो"
+        },
+        "description": {
+          "fr": "Mojito Menthe",
+          "en": "Mojito Mint",
+          "zh": "薄荷莫希托",
+          "hi": "मिंट मोजिटो"
+        },
+        "price": 4000
+      },
+      {
+        "name": {
+          "fr": "Bissap Mojito",
+          "en": "Bissap Mojito",
+          "zh": "洛神花莫希托",
+          "hi": "बिसाप मोजिटो"
+        },
+        "description": {
+          "fr": "Bissap Mojito",
+          "en": "Bissap Mojito",
+          "zh": "洛神花莫希托",
+          "hi": "बिसाप मोजिटो"
+        },
+        "price": 4000
+      },
+      {
+        "name": {
+          "fr": "Jus de pastèque",
+          "en": "Water Melon Juice",
+          "zh": "西瓜汁",
+          "hi": "तरबूज का जूस"
+        },
+        "description": {
+          "fr": "Jus de pastèque",
+          "en": "Water Melon Juice",
+          "zh": "西瓜汁",
+          "hi": "तरबूज का जूस"
+        },
+        "price": 2500
+      },
+      {
+        "name": {
+          "fr": "Jus local",
+          "en": "Juice Local",
+          "zh": "本地果汁",
+          "hi": "स्थानीय जूस"
+        },
+        "description": {
+          "fr": "Jus local",
+          "en": "Juice Local",
+          "zh": "本地果汁",
+          "hi": "स्थानीय जूस"
+        },
+        "price": 2000
+      },
+      {
+        "name": {
+          "fr": "Lassi Salé",
+          "en": "Lassi Salted",
+          "zh": "咸味拉西",
+          "hi": "नमकीन लस्सी"
+        },
+        "description": {
+          "fr": "Lassi Salé",
+          "en": "Lassi Salted",
+          "zh": "咸味拉西",
+          "hi": "नमकीन लस्सी"
+        },
+        "price": 3000
+      },
+      {
+        "name": {
+          "fr": "Lassi Mangue",
+          "en": "Lassi Mango",
+          "zh": "芒果拉西",
+          "hi": "मैंगो लस्सी"
+        },
+        "description": {
+          "fr": "Lassi Mangue",
+          "en": "Lassi Mango",
+          "zh": "芒果拉西",
+          "hi": "मैंगो लस्सी"
+        },
+        "price": 4000
+      },
+      {
+        "name": {
+          "fr": "Lassi Sucré",
+          "en": "Lassi Sweet",
+          "zh": "甜味拉西",
+          "hi": "मीठी लस्सी"
+        },
+        "description": {
+          "fr": "Lassi Sucré",
+          "en": "Lassi Sweet",
+          "zh": "甜味拉西",
+          "hi": "मीठी लस्सी"
+        },
+        "price": 3000
+      },
+      {
+        "name": {
+          "fr": "Soda au citron vert frais",
+          "en": "Fresh Lime Soda",
+          "zh": "鲜青柠苏打",
+          "hi": "ताज़ा नींबू सोडा"
+        },
+        "description": {
+          "fr": "Soda au citron vert frais",
+          "en": "Fresh Lime Soda",
+          "zh": "鲜青柠苏打",
+          "hi": "ताज़ा नींबू सोडा"
+        },
+        "price": 2500
+      },
+      {
+        "name": {
+          "fr": "Shake à la mangue",
+          "en": "Mango Shake",
+          "zh": "芒果奶昔",
+          "hi": "मैंगो शेक"
+        },
+        "description": {
+          "fr": "Shake à la mangue",
+          "en": "Mango Shake",
+          "zh": "芒果奶昔",
+          "hi": "मैंगो शेक"
+        },
+        "price": 3500
+      }
+    ]
+  },
+  {
+    "category": {
+      "fr": "Café & Thé",
+      "en": "Coffee & Tea",
+      "zh": "咖啡和茶",
+      "hi": "कॉफी और चाय"
+    },
+    "items": [
+      {
+        "name": {
+          "fr": "Café froid",
+          "en": "Cold Coffee",
+          "zh": "冰咖啡",
+          "hi": "कोल्ड कॉफी"
+        },
+        "description": {
+          "fr": "Café froid",
+          "en": "Cold coffee with milk and ice cream",
+          "zh": "冰咖啡",
+          "hi": "कोल्ड कॉफी"
+        },
+        "price": 4000
+      },
+      {
+        "name": {
+          "fr": "Thé indien au lait, thé noir, gingembre et cardamome",
+          "en": "Chai",
+          "zh": "印度奶茶，红茶、姜和豆蔻",
+          "hi": "दूध वाली भारतीय चाय, काली चाय, अदरक और इलायची"
+        },
+        "description": {
+          "fr": "Thé indien au lait, thé noir, gingembre et cardamome",
+          "en": "Chai",
+          "zh": "印度奶茶，红茶、姜和豆蔻",
+          "hi": "दूध वाली भारतीय चाय, काली चाय, अदरक और इलायची"
+        },
+        "price": 2000
+      },
+      {
+        "name": {
+          "fr": "Espresso",
+          "en": "Espresso",
+          "zh": "浓缩咖啡",
+          "hi": "एस्प्रेसो"
+        },
+        "description": {
+          "fr": "Espresso",
+          "en": "Espresso",
+          "zh": "浓缩咖啡",
+          "hi": "एस्प्रेसो"
+        },
+        "price": 1500
+      },
+      {
+        "name": {
+          "fr": "Thé vert",
+          "en": "Green Tea",
+          "zh": "绿茶",
+          "hi": "ग्रीन टी"
+        },
+        "description": {
+          "fr": "Thé vert",
+          "en": "Green Tea",
+          "zh": "绿茶",
+          "hi": "ग्रीन टी"
+        },
+        "price": 1500
+      }
+    ]
+  },
+  {
+    "category": {
+      "fr": "Boissons alcoolisées",
+      "en": "Alcoholic Drinks",
+      "zh": "酒精饮料",
+      "hi": "मादक पेय"
+    },
+    "items": [
+      {
+        "name": {
+          "fr": "Glenfiddich",
+          "en": "Glenfiddich",
+          "zh": "Glenfiddich",
+          "hi": "Glenfiddich"
+        },
+        "description": {
+          "fr": "Glenfiddich",
+          "en": "Glenfiddich",
+          "zh": "Glenfiddich",
+          "hi": "Glenfiddich"
+        },
+        "price": 5000
+      },
+      {
+        "name": {
+          "fr": "Chivas",
+          "en": "Chivas",
+          "zh": "Chivas",
+          "hi": "Chivas"
+        },
+        "description": {
+          "fr": "Chivas",
+          "en": "Chivas",
+          "zh": "Chivas",
+          "hi": "Chivas"
+        },
+        "price": 5000
+      },
+      {
+        "name": {
+          "fr": "Ballentine",
+          "en": "Ballentine",
+          "zh": "Ballentine",
+          "hi": "Ballentine"
+        },
+        "description": {
+          "fr": "Ballentine",
+          "en": "Ballentine",
+          "zh": "Ballentine",
+          "hi": "Ballentine"
+        },
+        "price": 4000
+      },
+      {
+        "name": {
+          "fr": "Jameson",
+          "en": "Jameson",
+          "zh": "Jameson",
+          "hi": "Jameson"
+        },
+        "description": {
+          "fr": "Jameson",
+          "en": "Jameson",
+          "zh": "Jameson",
+          "hi": "Jameson"
+        },
+        "price": 4000
+      },
+      {
+        "name": {
+          "fr": "Black Label",
+          "en": "Black Label",
+          "zh": "Black Label",
+          "hi": "Black Label"
+        },
+        "description": {
+          "fr": "Black Label",
+          "en": "Black Label",
+          "zh": "Black Label",
+          "hi": "Black Label"
+        },
+        "price": 4000
+      },
+      {
+        "name": {
+          "fr": "Clan Campbell",
+          "en": "Clan Campbell",
+          "zh": "Clan Campbell",
+          "hi": "Clan Campbell"
+        },
+        "description": {
+          "fr": "Clan Campbell",
+          "en": "Clan Campbell",
+          "zh": "Clan Campbell",
+          "hi": "Clan Campbell"
+        },
+        "price": 3000
+      },
+      {
+        "name": {
+          "fr": "J&B",
+          "en": "J&B",
+          "zh": "J&B",
+          "hi": "J&B"
+        },
+        "description": {
+          "fr": "J&B",
+          "en": "J&B",
+          "zh": "J&B",
+          "hi": "J&B"
+        },
+        "price": 3000
+      },
+      {
+        "name": {
+          "fr": "Red Label",
+          "en": "Red Label",
+          "zh": "Red Label",
+          "hi": "Red Label"
+        },
+        "description": {
+          "fr": "Red Label",
+          "en": "Red Label",
+          "zh": "Red Label",
+          "hi": "Red Label"
+        },
+        "price": 2500
+      },
+      {
+        "name": {
+          "fr": "VAT 69",
+          "en": "VAT 69",
+          "zh": "VAT 69",
+          "hi": "VAT 69"
+        },
+        "description": {
+          "fr": "VAT 69",
+          "en": "VAT 69",
+          "zh": "VAT 69",
+          "hi": "VAT 69"
+        },
+        "price": 2500
+      },
+      {
+        "name": {
+          "fr": "Vodka",
+          "en": "Vodka",
+          "zh": "Vodka",
+          "hi": "Vodka"
+        },
+        "description": {
+          "fr": "Vodka",
+          "en": "Vodka",
+          "zh": "Vodka",
+          "hi": "Vodka"
+        },
+        "price": 3000
+      },
+      {
+        "name": {
+          "fr": "Gin",
+          "en": "Gin",
+          "zh": "Gin",
+          "hi": "Gin"
+        },
+        "description": {
+          "fr": "Gin",
+          "en": "Gin",
+          "zh": "Gin",
+          "hi": "Gin"
+        },
+        "price": 4000
+      },
+      {
+        "name": {
+          "fr": "Jack Daniel",
+          "en": "Jack Daniel",
+          "zh": "Jack Daniel",
+          "hi": "Jack Daniel"
+        },
+        "description": {
+          "fr": "Jack Daniel",
+          "en": "Jack Daniel",
+          "zh": "Jack Daniel",
+          "hi": "Jack Daniel"
+        },
+        "price": 4000
+      },
+      {
+        "name": {
+          "fr": "Bacardi",
+          "en": "Bacardi",
+          "zh": "Bacardi",
+          "hi": "Bacardi"
+        },
+        "description": {
+          "fr": "Bacardi",
+          "en": "Bacardi",
+          "zh": "Bacardi",
+          "hi": "Bacardi"
+        },
+        "price": 3000
+      }
+    ]
+  },
+  {
+    "category": {
+      "fr": "Vin",
+      "en": "Wine",
+      "zh": "葡萄酒",
+      "hi": "वाइन"
+    },
+    "items": [
+      {
+        "name": {
+          "fr": "Vin - Blanc / Rouge / Rose",
+          "en": "Wine - White / Red / Pink",
+          "zh": "葡萄酒 - 白 / 红 / 桃红",
+          "hi": "वाइन - सफेद / लाल / रोज़"
+        },
+        "description": {
+          "fr": "Vin - Blanc / Rouge / Rose",
+          "en": "Wine - White / Red / Pink",
+          "zh": "葡萄酒 - 白 / 红 / 桃红",
+          "hi": "वाइन - सफेद / लाल / रोज़"
+        },
+        "price": 3000
+      },
+      {
+        "name": {
+          "fr": "Vin bouteille",
+          "en": "Vin bouteille",
+          "zh": "瓶装葡萄酒",
+          "hi": "बोतल वाइन"
+        },
+        "description": {
+          "fr": "Vin bouteille",
+          "en": "Vin bouteille",
+          "zh": "瓶装葡萄酒",
+          "hi": "बोतल वाइन"
+        },
+        "price": 15000
+      }
+    ]
+  },
+  {
+    "category": {
+      "fr": "Cocktails",
+      "en": "Cocktails",
+      "zh": "鸡尾酒",
+      "hi": "कॉकटेल"
+    },
+    "items": [
+      {
+        "name": {
+          "fr": "Mojito Menthe",
+          "en": "Mojito Mint",
+          "zh": "薄荷莫希托",
+          "hi": "मिंट मोजिटो"
+        },
+        "description": {
+          "fr": "Mojito Menthe",
+          "en": "Mojito Mint",
+          "zh": "薄荷莫希托",
+          "hi": "मिंट मोजिटो"
+        },
+        "price": 5000
+      },
+      {
+        "name": {
+          "fr": "Bissap Mojito",
+          "en": "Bissap Mojito",
+          "zh": "洛神花莫希托",
+          "hi": "बिसाप मोजिटो"
+        },
+        "description": {
+          "fr": "Bissap Mojito",
+          "en": "Bissap Mojito",
+          "zh": "洛神花莫希托",
+          "hi": "बिसाप मोजिटो"
+        },
+        "price": 5000
+      },
+      {
+        "name": {
+          "fr": "Screw Driver",
+          "en": "Screw Driver",
+          "zh": "螺丝刀鸡尾酒",
+          "hi": "स्क्रूड्राइवर"
+        },
+        "description": {
+          "fr": "Screw Driver",
+          "en": "Screw Driver",
+          "zh": "螺丝刀鸡尾酒",
+          "hi": "स्क्रूड्राइवर"
+        },
+        "price": 5000
+      }
+    ]
+  },
+  {
+    "category": {
+      "fr": "Bière",
+      "en": "Beer",
+      "zh": "啤酒",
+      "hi": "बीयर"
+    },
+    "items": [
+      {
+        "name": {
+          "fr": "Flag / Gazelle",
+          "en": "Flag / Gazelle",
+          "zh": "Flag / Gazelle 啤酒",
+          "hi": "Flag / Gazelle बीयर"
+        },
+        "description": {
+          "fr": "Flag / Gazelle",
+          "en": "Flag / Gazelle",
+          "zh": "Flag / Gazelle 啤酒",
+          "hi": "Flag / Gazelle बीयर"
+        },
+        "price": 1500
+      },
+      {
+        "name": {
+          "fr": "Heineken",
+          "en": "Heineken",
+          "zh": "喜力啤酒",
+          "hi": "हेनेकेन बीयर"
+        },
+        "description": {
+          "fr": "Heineken",
+          "en": "Heineken",
+          "zh": "喜力啤酒",
+          "hi": "हेनेकेन बीयर"
+        },
+        "price": 3000
+      },
+      {
+        "name": {
+          "fr": "Corona",
+          "en": "Corona",
+          "zh": "科罗娜啤酒",
+          "hi": "कोरोना बीयर"
+        },
+        "description": {
+          "fr": "Corona",
+          "en": "Corona",
+          "zh": "科罗娜啤酒",
+          "hi": "कोरोना बीयर"
+        },
+        "price": 3000
+      }
+    ]
+  }
+]
